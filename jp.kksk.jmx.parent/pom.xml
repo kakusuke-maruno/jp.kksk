@@ -7,6 +7,5 @@
   </parent>
   <groupId>jp.kksk.jmx</groupId>
   <artifactId>parent</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
 </project>
